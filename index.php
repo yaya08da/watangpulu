@@ -4,21 +4,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gusti Mahendra</title>
+    <title>MUH NURKHIDAYAT</title>
 </head>
 
 <body>
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="contact.html">Contact</a> |
-        <a href="about.html">About me</a>
+        <a href="index.php">Home</a> |
+        <a href="contact.php">Contact</a> |
+        <a href="about.php">About me</a>
     </nav>
 
     <hr />
 
     <header style="text-align: center;">
         <img src="1481856021466.jpg" width="200" height="200" style="border-radius: 50%;"/>
-        <h1>GUSTI MAHENDRA</h1>
+        <h1>MUH NURKHIDAYAT</h1>
     </header>  
 
     <hr />
