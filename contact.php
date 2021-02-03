@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gusti Mahendra</title>
+    <title>MUH NURKHIDAYATA</title>
 </head>
 
 <body>
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="contact.html">Contact</a> |
-        <a href="about.html">About me</a>
+        <a href="index.php">Home</a> |
+        <a href="contact.php">Contact</a> |
+        <a href="about.php">About me</a>
     </nav>
 
     <hr />
