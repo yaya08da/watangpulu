@@ -17,7 +17,7 @@
     <hr />
 
     <header style="text-align: center;">
-        <img src="1481856021466.jpg" width="200" height="200" style="border-radius: 50%;"/>
+        <img src="IMG_20201028_091626_668" width="200" height="200" style="border-radius: 50%;"/>
         <h1>MUH NURKHIDAYAT</h1>
     </header>  
 
