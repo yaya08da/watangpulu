@@ -49,9 +49,9 @@
                     </td>
                     <td>
                         <ul>
-                            <li>SDN 3 ARAWA</li>
-                            <li>SMPN 1 WATANGPULU</li>
-                            <li>SMKN 1 SIDENRENG</li>
+                            <li>SDN 2</li>
+                            <li>SMPN 1 PANGSID</li>
+                            <li>SMKN 2 SIDENRENG</li>
                             <li>UNIVERSITAS MUHAMMADIYAH PAREPARE</li>
                         </ul>
                     </td>
