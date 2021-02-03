@@ -49,7 +49,7 @@
                     </td>
                     <td>
                         <ul>
-                            <li>SDN 2</li>
+                            <li>SDN 2 WATANG SIDENRENG</li>
                             <li>SMPN 1 PANGSID</li>
                             <li>SMKN 2 SIDENRENG</li>
                             <li>UNIVERSITAS MUHAMMADIYAH PAREPARE</li>
